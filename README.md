@@ -4,10 +4,6 @@
 
 <p id="description">WeCode is a live collaborative coding platform using firebase firepad for realtime code sync between users and the compiler is powered by the jdoodle api</p>
 
-<h2> Project Members</h2>
-
-*   Niraj Patil
-
 <h2>🚀 Demo</h2>
 
 [https://w-bqiy.onrender.com](https://w-bqiy.onrender.com)
