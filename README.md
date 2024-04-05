@@ -7,8 +7,6 @@
 <h2> Project Members</h2>
 
 *   Niraj Patil
-*   Dhruvi Mehta
-*   Jeet Dhanani
 
 <h2>🚀 Demo</h2>
 
